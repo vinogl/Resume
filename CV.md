@@ -208,7 +208,7 @@
 <hr/>
 
 <blockquote class="block">
-    <p><strong>人民交通出版传媒管理有限公司(交通运输部直属企业单位)</strong><br/>
+    <p><strong>人民交通出版社股份有限公司(交通运输部直属企业单位)</strong><br/>
         <strong>实习部门: 信息中心</strong>      <strong>实习时间: 2021.06-2021.09</strong></p>
     <ul class="info">
         <li>独立开发了图书信息源-GUI管理工具(<code>Python-PyQt5</code>, <code>SqlServer</code>)</li>
